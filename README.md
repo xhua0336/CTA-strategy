@@ -1,2 +1,2 @@
 # CTA-strategy
-commodity intraday trading strategies
+AG 6 month min frequency trading strategies
